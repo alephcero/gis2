@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAGA_METADATA>
+  <HISTORY>
+    <MODULE>Identity</MODULE>
+    <OPTION type="boolean" id="SPLIT" name="Split Parts">TRUE</OPTION>
+    <DATA type="shapes" id="A" name="Layer A">
+      <FILE>C:/Users/fgonzalez/Desktop/BORRAR/circuitosConParcelas.shp</FILE>C:/Users/fgonzalez/Desktop/BORRAR/circuitosConParcelas.shp</DATA>
+    <DATA type="shapes" id="B" name="Layer B">
+      <FILE>C:/Users/fgonzalez/Desktop/BORRAR/radiosConParcelas.shp</FILE>C:/Users/fgonzalez/Desktop/BORRAR/radiosConParcelas.shp</DATA>
+  </HISTORY>
+  <SOURCE>
+    <FILE>C:/Users/fgonzalez/Desktop/BORRAR/identidadCircuitosRadios.shp</FILE>
+    <DATABASE></DATABASE>
+    <PROJECTION>
+      <OGC_WKT>PROJCS["POSGAR_2007_Argentina_3",GEOGCS["GCS_POSGAR 2007",DATUM["D_Posiciones_Geodesicas_Argentinas_2007",SPHEROID["GRS_1980",6378137,298.257222101]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",-90],PARAMETER["central_meridian",-66],PARAMETER["scale_factor",1],PARAMETER["false_easting",3500000],PARAMETER["false_northing",0],UNIT["Meter",1]]</OGC_WKT>
+      <PROJ4>+proj=tmerc +a=6378137.000000 +b=6356752.314140 +lat_0=-90 +lon_0=-66 +k_0=1 +x_0=3500000 +y_0=0 +no_defs</PROJ4>
+      <EPSG>-1</EPSG>
+    </PROJECTION>
+  </SOURCE>
+  <DESCRIPTION></DESCRIPTION>
+</SAGA_METADATA>
